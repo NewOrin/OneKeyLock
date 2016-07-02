@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">一键锁屏</string>
+    <string name="active_string">锁屏激活---------By Bingo Zhang</string>
+    <string name="failActivation">激活设备锁屏失败,请重试!</string>
+</resources>
